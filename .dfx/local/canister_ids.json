@@ -1,0 +1,14 @@
+{
+  "__Candid_UI": {
+    "local": "b77ix-eeaaa-aaaaa-qaada-cai"
+  },
+  "backend": {
+    "local": "br5f7-7uaaa-aaaaa-qaaca-cai"
+  },
+  "frontend": {
+    "local": "bw4dl-smaaa-aaaaa-qaacq-cai"
+  },
+  "internet_identity": {
+    "local": "rdmx6-jaaaa-aaaaa-aaadq-cai"
+  }
+}
